@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Ícono de la app (brote): genérico, no reemplaza al logo de AMOLA -->
+  <rect width="64" height="64" rx="16" fill="#4e8b3b"/>
+  <path d="M40 10c-6 1-13 6-13 15 0 2 .4 4 1 5.6C26 31 22 34 20 38c4-2 8-3.5 10-4.6 1 .4 2.2.6 3.5.6 8 0 12-8 12-14 0-4-1.5-7.5-5.5-10Z" fill="#e3b84f"/>
+  <path d="M30 34c2 4 3 10 3 20" stroke="#fff" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M31 44c-3-5-9-7-15-6 2 5 7 8 15 6Z" fill="#fff"/>
+</svg>

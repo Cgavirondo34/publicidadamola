@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { height: 100%; }
+body { @apply bg-stone-100 font-sans text-tierra-900 antialiased; }
+
+@layer components {
+  .panel-title { @apply mb-2 text-[11px] font-bold uppercase tracking-wider text-stone-500; }
+  .card { @apply rounded-2xl border border-stone-200 bg-white shadow-sm; }
+}
